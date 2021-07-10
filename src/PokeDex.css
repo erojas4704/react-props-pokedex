@@ -1,0 +1,15 @@
+.poke-dex{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.poke-heading{
+    padding-top: 1rem;
+    color: gray;
+}
+
+.center{
+    margin: 0 auto;
+    text-align: center;
+}

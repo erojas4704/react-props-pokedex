@@ -1,0 +1,12 @@
+.poke-card{
+    border-radius: 9px;
+
+    background-color: lightgray;
+    padding: 1rem;
+    margin: 1rem;
+}
+
+.pokemon-name{
+    color: Blue;
+    font-weight: bold;
+}
